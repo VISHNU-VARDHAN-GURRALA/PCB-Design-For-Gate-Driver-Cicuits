@@ -1,1 +1,1 @@
-# PCB-Design-For-Gate-Driver-Cicuits
+# PCB-Design-For-Gate-Driver-Circuits
